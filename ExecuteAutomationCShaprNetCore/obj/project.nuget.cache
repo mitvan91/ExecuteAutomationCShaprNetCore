@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LI5QYselQhd22+0v3Dcmx2khhYMYAQYjJyTQFT6/oN5pNkd0RyTAg4zxhz5UP6X390xscKN3XsfhnbE678J3Kw==",
+  "dgSpecHash": "JwrXTnUh/ZIp/GK5f6edNwwbMgCMgbyk3eyH/5S3dUqqTIxV+phB7Th8OsP60tTJVsEVJi3REZAdgvCIYujvHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj",
+  "projectFilePath": "C:\\Users\\Ivan\\Documents\\GitHub\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

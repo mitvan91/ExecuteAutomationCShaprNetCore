@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\Desktop\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj": {}
+    "C:\\Users\\Ivan\\Documents\\GitHub\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\Desktop\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj": {
+    "C:\\Users\\Ivan\\Documents\\GitHub\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Documents\\GitHub\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj",
         "projectName": "ExecuteAutomationCShaprNetCore",
-        "projectPath": "C:\\Users\\Ivan\\Desktop\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj",
+        "projectPath": "C:\\Users\\Ivan\\Documents\\GitHub\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Desktop\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\Documents\\GitHub\\ExecuteAutomationCShaprNetCore\\ExecuteAutomationCShaprNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

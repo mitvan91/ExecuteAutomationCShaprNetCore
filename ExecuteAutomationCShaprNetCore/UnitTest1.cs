@@ -27,7 +27,6 @@ namespace ExecuteAutomationCShaprNetCore
             
 
 
-            Console.WriteLine("Test1");
             Assert.Pass();
         }
     }
