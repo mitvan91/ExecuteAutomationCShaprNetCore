@@ -23,7 +23,7 @@ namespace ExecuteAutomationCShaprNetCore
 
             Driver.FindElement(By.XPath("//input[@name='ctl00$ContentPlaceHolder1$ChildMeal1']/following-sibling::div[text()='Celery']")).Click();
 
-            CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo", "Almond");
+            CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo", "Almonds");
 
 
             Console.WriteLine("Test1");
